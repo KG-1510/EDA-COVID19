@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis of CoVID-19 Patients Dataset by Johns Hopkins University 
-An EDA performed by Kushagra Gupta ,Dataset can be taken from [here](https://github.com/RamiKrispin/coronavirus)
+An EDA performed by Kushagra Gupta, Dataset can be taken from [here](https://github.com/RamiKrispin/coronavirus)
 
 ### Overview
 
