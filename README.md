@@ -3,7 +3,7 @@ An EDA performed by Kushagra Gupta, Dataset can be taken from [here](https://git
 
 ### Overview
 
-In this Jupyter notebook, we will perform EDA on the Corona Virus dataset which contains datewise entries of 188 countries, specifying their latitude, longitude, type of cases and the number of cases recorded on that day. The dataset has entries from 22nd January 2020 to 27th July 2020
+In this Jupyter notebook, we will perform EDA on the Corona Virus dataset which contains datewise entries of 188 countries, specifying their latitude, longitude, type of cases and the number of cases recorded on that day. The dataset has entries from 22nd January 2020 to 27th July 2020.
 
 ### Analysis
 
